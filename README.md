@@ -358,4 +358,6 @@ Copy another userForm.html
 
 ```
 
+visit http://localost:8080/users and http://localost:8080/users/new , 
+
 Test, good luck!
