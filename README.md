@@ -1,6 +1,9 @@
 # Wilmar NB Training Java Web
 2018-03 by Yin Guo Wei
 
+All codes can be download from: http://git.wilmar.cn/YinGuowei/wilmar-nb-trainging-java-web-2018
+
+
 ## Demo 1: Web
 
 First of all, let's build this static web application to learn some HTML knowledge.
